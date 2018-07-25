@@ -1,0 +1,63 @@
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+	background-size: cover; 
+	font-family: Comic Sans MS;
+	
+	
+}
+
+table {
+	width: 75%;
+	padding-right: 5%;
+	font-family: Comic Sans MS;
+}
+
+td /*the pics and link*/ {
+	padding-left: 8%;
+	font-family: Comic Sans MS;
+}
+
+th /*table headings (game titles)*/ {
+	padding-top: 0.79%;
+	font-family: Comic Sans MS;
+}
+
+h3 /*game titles*/ {
+`	font-family: Comic Sans MS;
+	color: #d6cd8b;
+	
+}
+
+h1 /*website title*/{
+	color: #8fd0d0;
+	text-align: center;
+	font-size: 68px;
+	font-family: Comic Sans MS;
+	text-shadow: 4px 4px #9cfc97;
+}
+
+#0121 /*bin image link*/{
+	width: 90px;
+	height: 111.6px;
+}
+
+#0123 /*the fish image link*/{
+	width: 111px;
+	height: 50px;
+}
+
+li /*each individual item in the list*/{
+	color: d6cd8b;
+}
+
+ul /*the overall list*/{
+	padding-top: 7%;
+	padding-left: 4%;
+	list-style: none
+}
+
+
+#facts /*ID name for and facts*/ {
+	color: #d6cd8b;
+	text-shadow
